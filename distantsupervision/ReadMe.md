@@ -7,7 +7,7 @@ In order to run this project make copy of this project and execute it through in
 
 
 ### Prerequisites
-This solution is based on IntelliJ.
+This solution is based on IntelliJ and requires Java 8 and Maven.
 If you are interested to store data locally then you need to setup MongoDB server locally otherwise remote MongoDB's URI can be used.
 
 
