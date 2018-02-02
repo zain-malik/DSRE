@@ -12,7 +12,7 @@ If you are interested to store data locally then you need to setup MongoDB serve
 
 
 ### Configuration
-All configuration related to this project is defined inside Config.java file. Set relevant config variable in that file.
+All configuration related to this project is defined inside Config.java file. Set relevant config variables in that file.
 
 ### How to run?
 1. Define DBPedia Constants in Constants.Java.
